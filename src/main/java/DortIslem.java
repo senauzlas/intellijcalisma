@@ -5,7 +5,11 @@ public class DortIslem {
         cikarma(25,5);
     }
 
+
     public static void toplama(int a, int b , double c){
+
+    public static void toplama(int a, int b, int c){
+
         System.out.println(a+b+c);
     }
 
