@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2fd149e-8dfd-4460-be01-6842b60cc62d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Toplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DortIslem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +40,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Toplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Toplama" />
+  <component name="RunManager" selected="Application.Bolme">
+    <configuration name="Bolme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bolme" />
+      <module name="Calisma01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DortIslem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DortIslem" />
       <module name="Calisma01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -49,7 +57,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Toplama" />
+        <item itemvalue="Application.Bolme" />
+        <item itemvalue="Application.DortIslem" />
       </list>
     </recent_temporary>
   </component>
