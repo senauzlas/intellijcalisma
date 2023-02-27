@@ -6,7 +6,7 @@ public class DortIslem {
     }
 
 
-    public static void toplama(int a, int b , double c){
+
 
     public static void toplama(int a, int b, int c){
 
